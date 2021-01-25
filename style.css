@@ -1,0 +1,23 @@
+body {
+  background-color: skyblue;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: steelblue;
+  border-width: 30px;
+  width: 30%;
+}
+
+h1 {
+  color: greenyellow;
+  text-shadow: 2px 2px 5px black;
+}
+
+.photo1 {
+  border: 10px solid indianred;
+}
+
+.photo2 {
+        border: 10px solid lawngreen;
+}
